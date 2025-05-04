@@ -1,4 +1,4 @@
-# 💻 Programación 1  
+# 💻 Matemática
 **Tecnicatura Universitaria en Programación**  
 📍 *Universidad Tecnológica Nacional*  
 
